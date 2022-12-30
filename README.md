@@ -1,0 +1,2 @@
+# chatGPT-Dataset-collect
+此仓库用于收集一些文本数据作为训练chatGPT-Alpha的数据集，人人可以pr自己的文本数据到此仓库中
